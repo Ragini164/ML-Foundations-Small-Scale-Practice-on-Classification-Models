@@ -1,0 +1,9 @@
+Age,Gender,Country,Work_Interfere,Family_History,Care_Options,Wellness_Program,Seek_Help
+25,Female,Pakistan,Often,Yes,Not sure,Don't know,Yes
+30,Male,Pakistan,Rarely,No,Yes,Yes,No
+22,Female,India,Sometimes,Yes,No,No,Yes
+28,Male,India,Never,No,Yes,Yes,Yes
+35,Female,Pakistan,Often,Yes,Yes,Yes,No
+40,Male,India,Rarely,No,No,No,Yes
+24,Other,Pakistan,Often,No,No,No,No
+32,Female,India,Never,Yes,Not sure,Don't know,Yes
